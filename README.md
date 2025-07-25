@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>UART Design and Verification</title>
+  
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6;">
 
